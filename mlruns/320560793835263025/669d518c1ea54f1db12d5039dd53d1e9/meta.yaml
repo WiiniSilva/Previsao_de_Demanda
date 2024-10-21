@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/winic/Documents/Renata/Portifólio/Séries Temporais/Previsao_de_Demanda/mlruns/320560793835263025/669d518c1ea54f1db12d5039dd53d1e9/artifacts
+end_time: 1729546348781
+entry_point_name: ''
+experiment_id: '320560793835263025'
+lifecycle_stage: active
+run_id: 669d518c1ea54f1db12d5039dd53d1e9
+run_name: SARIMA_Item_1
+run_uuid: 669d518c1ea54f1db12d5039dd53d1e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729546284909
+status: 3
+tags: []
+user_id: winic
