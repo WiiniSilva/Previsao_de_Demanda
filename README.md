@@ -1,6 +1,6 @@
 # Previsão de demanda com Séries Temporais
 
-Confira o projeto completo no link abaixo:
+Confira o projeto completo no link:
 [Notebook do Projeto](https://github.com/WiiniSilva/Previsao_de_Demanda/blob/main/Notebook/Previsão_Demanda.ipynb)
 
 Este repositório contém um projeto focado na previsão de demanda com séries temporais utilizando diferentes modelos estatísticos e de machine learning, incluindo SARIMA, XGBoost e Prophet. O objetivo do projeto é analisar e prever a quantidade de produtos vendidos ao longo do tempo, comparando a eficácia dos modelos em três diferentes itens.
